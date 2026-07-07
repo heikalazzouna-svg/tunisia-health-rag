@@ -1,0 +1,11 @@
+.venv
+.env
+venv
+*_venv/
+UsersLENOVOAppDataLocalTempmedgraph_test_venv/
+
+.idea
+.vscode
+__pycache__
+*.pyc
+.DS_Store

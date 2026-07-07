@@ -1,0 +1,501 @@
+physician_name,physician_id,physician_dob,physician_grad_year,medical_school,salary
+Aymen Chaabane,0,1970-02-22,2000-02-22,Universite Libre de Bruxelles - Faculte de Medecine,77383.54
+Ikram Kacem,1,1982-12-22,2012-12-22,Universite Laval - Faculte de Medecine,70278.63
+Ahlem Msadek,2,1959-06-03,1989-06-03,Universite de Montreal - Faculte de Medecine,76461.4
+Iheb Snoussi,3,1965-06-15,1995-06-15,Universite Libre de Bruxelles - Faculte de Medecine,73809.94
+Hedi Slimani,4,1978-10-19,2008-10-19,Faculte de Medecine de Sfax,74687.84
+Zeineb Chtioui,5,1989-11-04,2019-11-04,Universite de Strasbourg - Faculte de Medecine,79170.42
+Aymen Toumi,6,1957-12-24,1987-12-24,Universite Libre de Bruxelles - Faculte de Medecine,70935.76
+Khadija Amri,7,1987-03-12,2017-03-12,Universite Paris Descartes - Faculte de Medecine,79791.68
+Omar Slimani,8,1983-04-02,2013-04-02,Universite Laval - Faculte de Medecine,86754.81
+Bilel Amri,9,1989-06-02,2019-06-02,Universite Paris Descartes - Faculte de Medecine,77573.32
+Salma Ltaief,10,1974-01-22,2004-01-22,Faculte de Medecine de Sousse,69134.28
+Oumaima Sfar,11,1988-11-08,2018-11-08,Universite Libre de Bruxelles - Faculte de Medecine,70387.36
+Marwa Chaieb,12,1951-12-30,1981-12-30,Faculte de Medecine de Sousse,73138.03
+Habiba Jaballah,13,1951-11-30,1981-11-30,Faculte de Medecine de Sousse,70538.32
+Olfa Msadek,14,1969-09-04,1999-09-04,Universite Paris Descartes - Faculte de Medecine,67566.15
+Kaouther Chaabane,15,1989-09-25,2019-09-25,Universite Libre de Bruxelles - Faculte de Medecine,76158.05
+Foued Turki,16,1988-02-14,2018-02-14,Faculte de Medecine de Monastir,73341.02
+Hichem Gharbi,17,1970-04-06,2000-04-06,Universite Paris Descartes - Faculte de Medecine,76422.91
+Takwa Zouari,18,1961-06-03,1991-06-03,Faculte de Medecine de Tunis,83897.91
+Jawad Kefi,19,1961-12-09,1991-12-09,Faculte de Medecine de Sfax,73227.35
+Nizar Dridi,20,1956-11-07,1986-11-07,Faculte de Medecine de Tunis,66109.35
+Yassine Hamdi,21,1965-01-08,1995-01-08,Faculte de Medecine de Tunis,72008.31
+Nabil Ouali,22,1972-10-27,2002-10-27,Universite Libre de Bruxelles - Faculte de Medecine,80778.19
+Imen Aloui,23,1962-04-19,1992-04-19,Universite Libre de Bruxelles - Faculte de Medecine,80075.78
+Jihen Marzouki,24,1980-06-22,2010-06-22,Universite Libre de Bruxelles - Faculte de Medecine,78889.8
+Dorra Marzouki,25,1970-12-13,2000-12-13,Faculte de Medecine de Tunis,70314.7
+Chaker Ben Salem,26,1953-03-13,1983-03-13,Faculte de Medecine de Tunis,80639.27
+Radhia Hamdi,27,1952-11-28,1982-11-28,Faculte de Medecine de Sousse,82326.74
+Sana Ben Salem,28,1980-08-05,2010-08-05,Universite de Montreal - Faculte de Medecine,69784.34
+Iheb Ben Salem,29,1962-12-13,1992-12-13,Faculte de Medecine de Monastir,74688.22
+Jawad Kefi,30,1975-08-06,2005-08-06,Universite Paris Descartes - Faculte de Medecine,90153.01
+Skander Karray,31,1964-08-09,1994-08-09,Faculte de Medecine de Sfax,69450.94
+Bilel Belhaj,32,1974-06-08,2004-06-08,Universite Laval - Faculte de Medecine,62211.85
+Rim Bouslama,33,1961-11-09,1991-11-09,Faculte de Medecine de Sousse,85371.78
+Dhouha Mansouri,34,1968-08-15,1998-08-15,Faculte de Medecine de Tunis,83524.54
+Anis Belhaj,35,1963-04-09,1993-04-09,Universite Laval - Faculte de Medecine,71572.75
+Zeineb Chtioui,36,1968-06-06,1998-06-06,Universite de Strasbourg - Faculte de Medecine,74152.56
+Safia Chaabane,37,1992-01-29,2022-01-29,Faculte de Medecine de Tunis,65812.99
+Chedly Toumi,38,1956-12-14,1986-12-14,Faculte de Medecine de Monastir,75667.14
+Rania Ben Salah,39,1969-04-27,1999-04-27,Universite Libre de Bruxelles - Faculte de Medecine,83744.35
+Lassaad Naili,40,1981-07-13,2011-07-13,Universite Laval - Faculte de Medecine,70930.46
+Fatma Bouazizi,41,1981-06-20,2011-06-20,Universite Libre de Bruxelles - Faculte de Medecine,81578.26
+Aida Ouali,42,1954-03-23,1984-03-23,Faculte de Medecine de Monastir,78477.93
+Sofiene Karray,43,1988-03-26,2018-03-26,Faculte de Medecine de Monastir,79333.63
+Firas Aloui,44,1967-04-15,1997-04-15,Universite Laval - Faculte de Medecine,71367.68
+Oumaima Bouazizi,45,1987-10-21,2017-10-21,Faculte de Medecine de Sfax,72340.32
+Jawad Kammoun,46,1976-03-25,2006-03-25,Faculte de Medecine de Sousse,61149.21
+Dhouha Kefi,47,1973-10-18,2003-10-18,Universite de Montreal - Faculte de Medecine,70749.98
+Faten Selmi,48,1970-07-09,2000-07-09,Universite Laval - Faculte de Medecine,83726.14
+Jihen Bayoudh,49,1961-10-22,1991-10-22,Faculte de Medecine de Sfax,68030.01
+Habiba Hammami,50,1953-08-17,1983-08-17,Universite Paris Descartes - Faculte de Medecine,69147.74
+Nizar Riahi,51,1958-08-08,1988-08-08,Faculte de Medecine de Monastir,79801.42
+Taher Aloui,52,1954-12-16,1984-12-16,Universite Paris Descartes - Faculte de Medecine,78020.76
+Naceur Marzouki,53,1968-01-15,1998-01-15,Universite de Strasbourg - Faculte de Medecine,80173.97
+Nizar Guizani,54,1964-07-07,1994-07-07,Faculte de Medecine de Tunis,66275.85
+Karim Baccouche,55,1992-05-25,2022-05-25,Universite de Strasbourg - Faculte de Medecine,94230.43
+Sana Sfar,56,1982-01-27,2012-01-27,Universite Paris Descartes - Faculte de Medecine,65881.85
+Kamel Turki,57,1963-01-01,1993-01-01,Universite Laval - Faculte de Medecine,76156.85
+Chaima Charfi,58,1975-11-01,2005-11-01,Faculte de Medecine de Monastir,73810.08
+Faten Chaieb,59,1960-02-27,1990-02-27,Faculte de Medecine de Sousse,66100.19
+Hind Toumi,60,1985-11-29,2015-11-29,Universite Laval - Faculte de Medecine,72223.43
+Bouthaina Trabelsi,61,1976-03-21,2006-03-21,Universite Laval - Faculte de Medecine,75174.81
+Taher Mejri,62,1977-10-16,2007-10-16,Faculte de Medecine de Sfax,70125.2
+Nedra Sassi,63,1967-11-18,1997-11-18,Universite Laval - Faculte de Medecine,82029.18
+Driss Ben Amor,64,1977-11-23,2007-11-23,Universite Laval - Faculte de Medecine,73787.81
+Lotfi Amri,65,1990-03-15,2020-03-15,Faculte de Medecine de Monastir,64940.44
+Feriel Ferchichi,66,1951-05-20,1981-05-20,Universite de Strasbourg - Faculte de Medecine,64304.06
+Yassine Amri,67,1953-04-29,1983-04-29,Universite de Montreal - Faculte de Medecine,79546.24
+Amine Hentati,68,1954-03-12,1984-03-12,Faculte de Medecine de Monastir,63849.22
+Naceur Jaziri,69,1952-04-03,1982-04-03,Faculte de Medecine de Tunis,77373.2
+Latifa Boughanmi,70,1963-10-09,1993-10-09,Universite Laval - Faculte de Medecine,78334.91
+Nizar Bahloul,71,1986-10-07,2016-10-07,Faculte de Medecine de Sfax,67534.83
+Mongi Bouslama,72,1955-10-07,1985-10-07,Universite Laval - Faculte de Medecine,81680.54
+Hichem Bouazizi,73,1959-12-07,1989-12-07,Universite Paris Descartes - Faculte de Medecine,62116.55
+Meriem Ben Ali,74,1985-07-08,2015-07-08,Universite Paris Descartes - Faculte de Medecine,77223.44
+Rafik Guesmi,75,1955-01-27,1985-01-27,Faculte de Medecine de Sfax,74693.57
+Lotfi Ben Salem,76,1963-06-12,1993-06-12,Universite Laval - Faculte de Medecine,74107.52
+Skander Selmi,77,1980-02-16,2010-02-16,Faculte de Medecine de Sfax,66165.78
+Ines Ben Amor,78,1987-11-26,2017-11-26,Faculte de Medecine de Monastir,67972.33
+Samia Mabrouk,79,1982-01-17,2012-01-17,Universite Libre de Bruxelles - Faculte de Medecine,87141.02
+Kalthoum Mabrouk,80,1993-02-25,2023-02-25,Universite de Strasbourg - Faculte de Medecine,84113.66
+Iheb Aloui,81,1966-12-13,1996-12-13,Universite de Strasbourg - Faculte de Medecine,80565.63
+Lassaad Chaabane,82,1965-06-16,1995-06-16,Universite de Strasbourg - Faculte de Medecine,82048.86
+Safia Bouazizi,83,1976-04-02,2006-04-02,Universite de Montreal - Faculte de Medecine,81345.1
+Sihem Ayari,84,1982-05-22,2012-05-22,Faculte de Medecine de Sfax,72574.83
+Aida Ben Salem,85,1972-01-19,2002-01-19,Universite Libre de Bruxelles - Faculte de Medecine,75357.03
+Bilel Bayoudh,86,1959-02-13,1989-02-13,Universite Libre de Bruxelles - Faculte de Medecine,63956.19
+Jamel Mabrouk,87,1973-09-19,2003-09-19,Universite de Strasbourg - Faculte de Medecine,74327.28
+Ikram Aloui,88,1969-06-24,1999-06-24,Universite de Montreal - Faculte de Medecine,83875.61
+Safia Chaieb,89,1986-06-24,2016-06-24,Faculte de Medecine de Sfax,70044.7
+Hedi Hammami,90,1953-09-15,1983-09-15,Universite Paris Descartes - Faculte de Medecine,82673.56
+Nawel Ben Youssef,91,1980-01-19,2010-01-19,Universite Paris Descartes - Faculte de Medecine,75686.89
+Takwa Amri,92,1980-03-07,2010-03-07,Universite Libre de Bruxelles - Faculte de Medecine,64609.71
+Abderrahmen Guizani,93,1951-10-30,1981-10-30,Faculte de Medecine de Monastir,66695.1
+Eya Marzouki,94,1975-07-26,2005-07-26,Faculte de Medecine de Sousse,81894.77
+Farouk Hammami,95,1987-05-26,2017-05-26,Faculte de Medecine de Tunis,79143.93
+Tarek Mansouri,96,1960-03-08,1990-03-08,Universite Libre de Bruxelles - Faculte de Medecine,75763.23
+Faten Charfi,97,1970-06-28,2000-06-28,Universite Laval - Faculte de Medecine,72944.76
+Rania Bouden,98,1951-06-24,1981-06-24,Faculte de Medecine de Tunis,76579.26
+Imed Hentati,99,1963-08-05,1993-08-05,Faculte de Medecine de Monastir,81602.22
+Safia Souissi,100,1963-03-29,1993-03-29,Universite Paris Descartes - Faculte de Medecine,86068.9
+Omar Chabbi,101,1966-07-18,1996-07-18,Universite Paris Descartes - Faculte de Medecine,86427.63
+Nawel Sfar,102,1990-08-16,2020-08-16,Universite de Strasbourg - Faculte de Medecine,77789.7
+Mohamed Hamdi,103,1970-01-08,2000-01-08,Faculte de Medecine de Sfax,73710.51
+Latifa Aloui,104,1964-07-26,1994-07-26,Faculte de Medecine de Sousse,76096.86
+Kaouther Toumi,105,1986-03-09,2016-03-09,Faculte de Medecine de Sfax,78915.9
+Jihen Marzouki,106,1957-08-11,1987-08-11,Faculte de Medecine de Sousse,78885.5
+Nadia Baccouche,107,1954-05-01,1984-05-01,Universite de Strasbourg - Faculte de Medecine,84809.9
+Naceur Msadek,108,1984-09-16,2014-09-16,Universite de Strasbourg - Faculte de Medecine,90868.17
+Aida Snoussi,109,1965-08-23,1995-08-23,Faculte de Medecine de Tunis,73460.59
+Chedly Aloui,110,1963-02-26,1993-02-26,Universite de Montreal - Faculte de Medecine,91169.14
+Jihen Hachani,111,1977-10-02,2007-10-02,Faculte de Medecine de Sousse,83791.79
+Rim Charfi,112,1950-01-10,1980-01-10,Faculte de Medecine de Sfax,74243.83
+Mongi Riahi,113,1964-01-12,1994-01-12,Faculte de Medecine de Sousse,86239.24
+Selim Bayoudh,114,1952-10-12,1982-10-12,Faculte de Medecine de Sfax,87642.36
+Ines Hentati,115,1956-01-03,1986-01-03,Universite Paris Descartes - Faculte de Medecine,71547.78
+Youssef Amri,116,1973-01-15,2003-01-15,Universite de Strasbourg - Faculte de Medecine,87991.61
+Imed Slimani,117,1987-02-06,2017-02-06,Universite de Montreal - Faculte de Medecine,83063.12
+Wael Gharbi,118,1989-09-25,2019-09-25,Universite Laval - Faculte de Medecine,92764.19
+Ghazi Hamdi,119,1961-05-21,1991-05-21,Universite Paris Descartes - Faculte de Medecine,71819.71
+Iheb Kammoun,120,1969-01-31,1999-01-31,Faculte de Medecine de Tunis,72349.3
+Nadia Zouari,121,1968-12-30,1998-12-30,Faculte de Medecine de Tunis,59800.03
+Ahlem Karray,122,1987-09-16,2017-09-16,Faculte de Medecine de Sousse,79283.95
+Naceur Bahloul,123,1978-04-28,2008-04-28,Faculte de Medecine de Sousse,77814.38
+Yasmine Souissi,124,1969-11-23,1999-11-23,Universite Libre de Bruxelles - Faculte de Medecine,70777.55
+Ines Ferchichi,125,1973-10-29,2003-10-29,Universite Libre de Bruxelles - Faculte de Medecine,74386.12
+Amine Khemiri,126,1951-01-20,1981-01-20,Universite Libre de Bruxelles - Faculte de Medecine,65165.84
+Habiba Dridi,127,1951-02-09,1981-02-09,Universite de Montreal - Faculte de Medecine,83988.34
+Sarra Baccouche,128,1972-05-20,2002-05-20,Universite de Montreal - Faculte de Medecine,71327.25
+Rania Dridi,129,1991-07-03,2021-07-03,Universite de Montreal - Faculte de Medecine,98205.37
+Ines Sfar,130,1984-12-11,2014-12-11,Faculte de Medecine de Monastir,73682.99
+Rim Zoghlami,131,1976-12-30,2006-12-30,Universite Laval - Faculte de Medecine,69302.86
+Bilel Kammoun,132,1966-05-26,1996-05-26,Universite Libre de Bruxelles - Faculte de Medecine,71907.65
+Nour Guesmi,133,1991-05-12,2021-05-12,Universite Laval - Faculte de Medecine,64410.29
+Latifa Sassi,134,1959-12-16,1989-12-16,Universite de Montreal - Faculte de Medecine,78617.04
+Ismail Bayoudh,135,1979-11-21,2009-11-21,Faculte de Medecine de Tunis,71850.75
+Emna Amri,136,1963-03-03,1993-03-03,Universite Laval - Faculte de Medecine,83484.4
+Youssef Cherif,137,1986-11-04,2016-11-04,Faculte de Medecine de Monastir,72939.39
+Rachid Charfi,138,1992-04-14,2022-04-14,Universite Laval - Faculte de Medecine,85383.32
+Iheb Boughanmi,139,1966-06-03,1996-06-03,Universite Paris Descartes - Faculte de Medecine,80680.92
+Rahma Tlili,140,1955-08-11,1985-08-11,Universite Libre de Bruxelles - Faculte de Medecine,75214.48
+Riadh Ben Salem,141,1983-10-13,2013-10-13,Faculte de Medecine de Monastir,86851.74
+Chedly Snoussi,142,1962-06-11,1992-06-11,Universite de Strasbourg - Faculte de Medecine,82142.2
+Driss Zouari,143,1963-08-17,1993-08-17,Universite Libre de Bruxelles - Faculte de Medecine,97096.6
+Chourouk Chabbi,144,1984-12-23,2014-12-23,Faculte de Medecine de Sousse,71929.09
+Yasmine Zoghlami,145,1977-06-03,2007-06-03,Universite Paris Descartes - Faculte de Medecine,75574.62
+Youssef Hachani,146,1959-05-13,1989-05-13,Universite Paris Descartes - Faculte de Medecine,86765.32
+Tarek Toumi,147,1989-07-05,2019-07-05,Universite Laval - Faculte de Medecine,63423.47
+Radhia Msadek,148,1969-10-27,1999-10-27,Universite Laval - Faculte de Medecine,84877.08
+Sami Chaieb,149,1989-09-02,2019-09-02,Universite Libre de Bruxelles - Faculte de Medecine,78294.77
+Yasmine Mejri,150,1978-05-11,2008-05-11,Faculte de Medecine de Monastir,68338.42
+Elyes Kacem,151,1961-12-12,1991-12-12,Universite Paris Descartes - Faculte de Medecine,64777.2
+Hind Ouali,152,1977-11-11,2007-11-11,Faculte de Medecine de Monastir,69956.33
+Habib Hammami,153,1973-01-27,2003-01-27,Universite de Strasbourg - Faculte de Medecine,57863.85
+Hedi Chouchane,154,1973-06-29,2003-06-29,Faculte de Medecine de Sousse,71328.45
+Nadia Toumi,155,1963-04-21,1993-04-21,Universite de Montreal - Faculte de Medecine,79669.17
+Hamza Chabbi,156,1977-06-28,2007-06-28,Faculte de Medecine de Sfax,71427.75
+Nour Hentati,157,1991-10-07,2021-10-07,Universite Libre de Bruxelles - Faculte de Medecine,85412.35
+Selim Gharbi,158,1981-05-28,2011-05-28,Faculte de Medecine de Monastir,87449.61
+Kaouther Bouslama,159,1953-06-06,1983-06-06,Faculte de Medecine de Monastir,84567.33
+Chourouk Sassi,160,1969-02-26,1999-02-26,Universite de Montreal - Faculte de Medecine,76729.81
+Nadia Abidi,161,1983-05-01,2013-05-01,Universite Paris Descartes - Faculte de Medecine,57564.91
+Driss Trabelsi,162,1962-10-18,1992-10-18,Universite Libre de Bruxelles - Faculte de Medecine,69722.27
+Driss Ouali,163,1993-03-17,2023-03-17,Universite Paris Descartes - Faculte de Medecine,73934.71
+Fares Kefi,164,1985-09-25,2015-09-25,Universite Paris Descartes - Faculte de Medecine,68295.99
+Ons Frikha,165,1968-11-03,1998-11-03,Faculte de Medecine de Tunis,73953.71
+Khalil Baccouche,166,1969-01-10,1999-01-10,Faculte de Medecine de Tunis,87075.51
+Mehdi Snoussi,167,1976-01-26,2006-01-26,Faculte de Medecine de Monastir,62656.68
+Marwan Ben Salem,168,1971-12-14,2001-12-14,Universite de Strasbourg - Faculte de Medecine,88587.69
+Mahdi Bouzid,169,1969-01-02,1999-01-02,Universite de Strasbourg - Faculte de Medecine,81635.45
+Fathi Boughanmi,170,1977-12-14,2007-12-14,Universite de Montreal - Faculte de Medecine,77011.63
+Aymen Souissi,171,1976-02-24,2006-02-24,Universite de Montreal - Faculte de Medecine,69647.88
+Ikram Hentati,172,1962-09-12,1992-09-12,Faculte de Medecine de Monastir,68445.37
+Manel Mabrouk,173,1963-04-17,1993-04-17,Faculte de Medecine de Sfax,62803.37
+Khadija Bouden,174,1978-04-04,2008-04-04,Faculte de Medecine de Tunis,87875.74
+Mongi Abidi,175,1963-05-25,1993-05-25,Faculte de Medecine de Monastir,86532.09
+Olfa Mansouri,176,1969-04-14,1999-04-14,Faculte de Medecine de Sousse,64452.87
+Lassaad Jendoubi,177,1961-05-27,1991-05-27,Faculte de Medecine de Sfax,70855.29
+Eya Selmi,178,1971-09-29,2001-09-29,Faculte de Medecine de Sousse,78248.59
+Nizar Gargouri,179,1989-05-24,2019-05-24,Faculte de Medecine de Tunis,72753.68
+Jamila Abidi,180,1965-04-01,1995-04-01,Universite de Montreal - Faculte de Medecine,60609.94
+Kamel Hamdi,181,1961-10-10,1991-10-10,Universite de Strasbourg - Faculte de Medecine,70066.7
+Nizar Msadek,182,1967-03-02,1997-03-02,Universite Laval - Faculte de Medecine,89632.76
+Khadija Msadek,183,1960-06-15,1990-06-15,Universite Paris Descartes - Faculte de Medecine,70575.16
+Wassim Karray,184,1982-11-24,2012-11-24,Faculte de Medecine de Monastir,73773.99
+Jawad Hammami,185,1983-07-01,2013-07-01,Faculte de Medecine de Sousse,66411.17
+Mehdi Ayari,186,1967-02-15,1997-02-15,Faculte de Medecine de Sfax,79408.22
+Zoubeir Kefi,187,1970-02-15,2000-02-15,Universite de Montreal - Faculte de Medecine,75863.64
+Tarek Chtioui,188,1991-07-28,2021-07-28,Universite de Montreal - Faculte de Medecine,69434.85
+Ismail Charfi,189,1967-01-30,1997-01-30,Faculte de Medecine de Tunis,65215.08
+Faten Ltaief,190,1966-09-04,1996-09-04,Faculte de Medecine de Monastir,85534.08
+Sihem Hammami,191,1981-11-11,2011-11-11,Faculte de Medecine de Sousse,62958.42
+Emna Gargouri,192,1984-08-17,2014-08-17,Faculte de Medecine de Sfax,78778.62
+Taher Boughanmi,193,1977-02-19,2007-02-19,Universite Laval - Faculte de Medecine,58845.91
+Mariem Mabrouk,194,1973-03-13,2003-03-13,Universite Paris Descartes - Faculte de Medecine,80304.09
+Aymen Nasri,195,1958-12-11,1988-12-11,Universite de Montreal - Faculte de Medecine,82277.24
+Othman Abidi,196,1951-10-29,1981-10-29,Universite Laval - Faculte de Medecine,83210.88
+Ghazi Kefi,197,1961-06-20,1991-06-20,Universite de Strasbourg - Faculte de Medecine,73790.94
+Othman Bouazizi,198,1977-10-27,2007-10-27,Universite Libre de Bruxelles - Faculte de Medecine,86880.03
+Mariem Mabrouk,199,1980-12-23,2010-12-23,Universite de Montreal - Faculte de Medecine,92308.44
+Taher Selmi,200,1985-04-18,2015-04-18,Universite Libre de Bruxelles - Faculte de Medecine,72587.83
+Feriel Souissi,201,1963-01-30,1993-01-30,Universite Paris Descartes - Faculte de Medecine,71617.46
+Wassim Karray,202,1960-09-05,1990-09-05,Universite de Strasbourg - Faculte de Medecine,76118.83
+Aida Karray,203,1987-07-22,2017-07-22,Universite Laval - Faculte de Medecine,71417.4
+Khaled Bouzid,204,1969-02-11,1999-02-11,Universite de Montreal - Faculte de Medecine,70320.97
+Bassem Jaziri,205,1967-06-17,1997-06-17,Universite de Strasbourg - Faculte de Medecine,70974.46
+Habiba Ben Ali,206,1977-10-26,2007-10-26,Universite Paris Descartes - Faculte de Medecine,87868.17
+Nedra Jaziri,207,1988-09-02,2018-09-02,Universite Laval - Faculte de Medecine,80789.11
+Bassem Zouari,208,1994-07-31,2024-07-31,Faculte de Medecine de Sousse,71392.9
+Jihen Hachani,209,1978-09-19,2008-09-19,Universite de Strasbourg - Faculte de Medecine,56586.56
+Adel Bayoudh,210,1964-05-07,1994-05-07,Universite de Montreal - Faculte de Medecine,63416.52
+Olfa Selmi,211,1978-08-15,2008-08-15,Universite Libre de Bruxelles - Faculte de Medecine,78775.72
+Kaouther Abidi,212,1978-09-09,2008-09-09,Universite Paris Descartes - Faculte de Medecine,59088.33
+Jawad Mnif,213,1983-12-08,2013-12-08,Universite Libre de Bruxelles - Faculte de Medecine,77197.45
+Chaima Ben Salem,214,1962-02-19,1992-02-19,Faculte de Medecine de Tunis,67008.27
+Chedly Hammami,215,1987-02-24,2017-02-24,Faculte de Medecine de Sfax,75688.54
+Amine Selmi,216,1988-10-26,2018-10-26,Universite Paris Descartes - Faculte de Medecine,75478.92
+Bilel Mejri,217,1950-10-30,1980-10-30,Universite Laval - Faculte de Medecine,75904.42
+Jawad Amri,218,1950-02-25,1980-02-25,Universite Libre de Bruxelles - Faculte de Medecine,72041.84
+Feriel Kefi,219,1985-08-18,2015-08-18,Faculte de Medecine de Monastir,71795.36
+Hamza Hamdi,220,1973-11-13,2003-11-13,Universite de Montreal - Faculte de Medecine,69594.07
+Khaled Gargouri,221,1972-04-25,2002-04-25,Universite Paris Descartes - Faculte de Medecine,78629.19
+Aida Chaieb,222,1955-10-27,1985-10-27,Universite de Strasbourg - Faculte de Medecine,81038.95
+Omar Bouzid,223,1981-06-06,2011-06-06,Universite de Montreal - Faculte de Medecine,65857.71
+Olfa Charfi,224,1993-02-09,2023-02-09,Faculte de Medecine de Monastir,74612.79
+Ismail Chaabane,225,1968-08-23,1998-08-23,Universite de Strasbourg - Faculte de Medecine,76474.37
+Nawel Abidi,226,1962-08-27,1992-08-27,Faculte de Medecine de Tunis,76378.28
+Wafa Jendoubi,227,1991-03-01,2021-03-01,Universite de Strasbourg - Faculte de Medecine,76250.77
+Sana Mejri,228,1987-04-20,2017-04-20,Faculte de Medecine de Sfax,71984.74
+Moez Kacem,229,1964-01-14,1994-01-14,Faculte de Medecine de Sousse,77092.73
+Mongi Abidi,230,1964-01-10,1994-01-10,Universite Libre de Bruxelles - Faculte de Medecine,79635.22
+Yasmine Bahloul,231,1966-01-27,1996-01-27,Universite Laval - Faculte de Medecine,76057.77
+Ali Ben Salem,232,1954-03-12,1984-03-12,Universite de Strasbourg - Faculte de Medecine,78794.55
+Fatma Chabbi,233,1972-05-17,2002-05-17,Universite Laval - Faculte de Medecine,82427.65
+Wassim Rekik,234,1971-01-04,2001-01-04,Universite de Montreal - Faculte de Medecine,61117.95
+Olfa Tlili,235,1968-11-04,1998-11-04,Faculte de Medecine de Monastir,82075.98
+Nadia Abidi,236,1955-03-22,1985-03-22,Faculte de Medecine de Tunis,77568.21
+Hedi Zoghlami,237,1958-06-14,1988-06-14,Faculte de Medecine de Sfax,66662.81
+Jamel Sfar,238,1986-12-21,2016-12-21,Faculte de Medecine de Sousse,81018.53
+Sihem Ben Youssef,239,1972-04-27,2002-04-27,Faculte de Medecine de Tunis,72012.59
+Imed Jaballah,240,1965-09-29,1995-09-29,Universite Paris Descartes - Faculte de Medecine,73035.25
+Wafa Mnif,241,1984-12-20,2014-12-20,Universite Laval - Faculte de Medecine,71192.4
+Bilel Hentati,242,1978-02-10,2008-02-10,Universite de Strasbourg - Faculte de Medecine,77267.99
+Hela Slimani,243,1952-11-28,1982-11-28,Universite Paris Descartes - Faculte de Medecine,69109.85
+Sihem Hammami,244,1967-01-21,1997-01-21,Universite Libre de Bruxelles - Faculte de Medecine,81761.06
+Aymen Dridi,245,1991-06-22,2021-06-22,Universite de Strasbourg - Faculte de Medecine,73958.53
+Fatma Toumi,246,1962-09-07,1992-09-07,Universite Libre de Bruxelles - Faculte de Medecine,72268.48
+Fares Marzouki,247,1967-03-21,1997-03-21,Universite Paris Descartes - Faculte de Medecine,80646.57
+Kaouther Marzouki,248,1959-11-06,1989-11-06,Faculte de Medecine de Sousse,72603.32
+Karim Belhaj,249,1981-06-02,2011-06-02,Universite de Strasbourg - Faculte de Medecine,82111.33
+Moez Msadek,250,1966-11-21,1996-11-21,Faculte de Medecine de Sousse,82346.95
+Wassim Belhaj,251,1976-10-26,2006-10-26,Faculte de Medecine de Monastir,64988.97
+Nizar Jendoubi,252,1970-09-14,2000-09-14,Faculte de Medecine de Tunis,83319.45
+Lotfi Gargouri,253,1972-08-11,2002-08-11,Universite Libre de Bruxelles - Faculte de Medecine,64034.73
+Ahlem Chouchane,254,1967-06-12,1997-06-12,Universite de Montreal - Faculte de Medecine,83786.85
+Jalel Kammoun,255,1989-05-05,2019-05-05,Faculte de Medecine de Tunis,90212.68
+Faten Sfar,256,1985-05-07,2015-05-07,Faculte de Medecine de Sfax,81561.26
+Chokri Riahi,257,1971-10-01,2001-10-01,Universite Paris Descartes - Faculte de Medecine,58822.65
+Moez Bouzid,258,1983-05-27,2013-05-27,Universite Paris Descartes - Faculte de Medecine,82976.74
+Mouna Abidi,259,1993-01-23,2023-01-23,Universite Libre de Bruxelles - Faculte de Medecine,91845.97
+Latifa Karray,260,1968-06-13,1998-06-13,Faculte de Medecine de Sousse,72727.26
+Mehdi Chouchane,261,1993-07-27,2023-07-27,Universite de Strasbourg - Faculte de Medecine,74739.73
+Habib Boughanmi,262,1956-10-08,1986-10-08,Universite Paris Descartes - Faculte de Medecine,66086.35
+Imen Gargouri,263,1992-12-05,2022-12-05,Universite Libre de Bruxelles - Faculte de Medecine,77340.6
+Syrine Dridi,264,1954-10-28,1984-10-28,Faculte de Medecine de Sousse,84518.83
+Wafa Charfi,265,1977-11-02,2007-11-02,Faculte de Medecine de Tunis,80233.03
+Jawad Souissi,266,1978-11-24,2008-11-24,Faculte de Medecine de Tunis,98564.75
+Rachid Zouari,267,1989-02-02,2019-02-02,Faculte de Medecine de Monastir,75247.7
+Yosra Hamdi,268,1960-06-09,1990-06-09,Universite de Strasbourg - Faculte de Medecine,62769.95
+Mouna Guesmi,269,1954-05-25,1984-05-25,Faculte de Medecine de Tunis,76282.28
+Habib Kacem,270,1965-05-24,1995-05-24,Faculte de Medecine de Monastir,56876.61
+Mahdi Ltaief,271,1968-07-12,1998-07-12,Faculte de Medecine de Tunis,71001.72
+Kamel Ben Ali,272,1981-10-18,2011-10-18,Universite de Strasbourg - Faculte de Medecine,87182.87
+Mariem Naili,273,1978-12-29,2008-12-29,Universite Laval - Faculte de Medecine,77438.5
+Fares Chaieb,274,1988-02-09,2018-02-09,Universite Laval - Faculte de Medecine,76345.63
+Slim Boughanmi,275,1985-09-20,2015-09-20,Universite Laval - Faculte de Medecine,88655.85
+Naceur Bahloul,276,1957-02-03,1987-02-03,Universite de Montreal - Faculte de Medecine,72970.5
+Kaouther Bouzid,277,1961-11-03,1991-11-03,Universite Laval - Faculte de Medecine,84463.65
+Anis Slimani,278,1979-07-15,2009-07-15,Faculte de Medecine de Tunis,75969.8
+Aymen Chaieb,279,1974-12-12,2004-12-12,Universite Libre de Bruxelles - Faculte de Medecine,77850.36
+Chedly Turki,280,1964-08-17,1994-08-17,Universite Laval - Faculte de Medecine,65870.21
+Slim Hentati,281,1994-11-15,2024-11-15,Universite Laval - Faculte de Medecine,71384.65
+Samia Bouzid,282,1973-09-16,2003-09-16,Faculte de Medecine de Monastir,64518.61
+Wassim Bouzid,283,1988-06-13,2018-06-13,Universite Libre de Bruxelles - Faculte de Medecine,74285.66
+Iheb Zouari,284,1974-03-13,2004-03-13,Faculte de Medecine de Monastir,77928.02
+Jamila Kefi,285,1950-04-28,1980-04-28,Faculte de Medecine de Tunis,66674.71
+Lassaad Trabelsi,286,1988-02-08,2018-02-08,Universite de Strasbourg - Faculte de Medecine,90368.84
+Sarra Bayoudh,287,1989-03-06,2019-03-06,Faculte de Medecine de Sousse,77085.8
+Sana Chouchane,288,1986-03-27,2016-03-27,Faculte de Medecine de Tunis,75433.47
+Naceur Ben Ali,289,1965-03-23,1995-03-23,Universite de Montreal - Faculte de Medecine,80772.43
+Nawel Mabrouk,290,1952-04-26,1982-04-26,Faculte de Medecine de Sousse,68783.04
+Bassem Chtioui,291,1979-12-29,2009-12-29,Universite Libre de Bruxelles - Faculte de Medecine,76226.08
+Lobna Abidi,292,1987-07-09,2017-07-09,Faculte de Medecine de Monastir,69623.5
+Marwan Aloui,293,1992-02-15,2022-02-15,Faculte de Medecine de Tunis,86690.1
+Sana Kammoun,294,1987-08-21,2017-08-21,Universite de Strasbourg - Faculte de Medecine,67060.2
+Amina Cherif,295,1967-09-18,1997-09-18,Universite Paris Descartes - Faculte de Medecine,75473.74
+Yasmine Msadek,296,1975-07-22,2005-07-22,Faculte de Medecine de Sousse,77469.87
+Iheb Hachani,297,1985-02-05,2015-02-05,Universite Laval - Faculte de Medecine,77961.19
+Elyes Marzouki,298,1961-07-10,1991-07-10,Universite Paris Descartes - Faculte de Medecine,70640.74
+Ali Chtioui,299,1967-03-16,1997-03-16,Faculte de Medecine de Tunis,68283.68
+Taher Ben Ali,300,1955-08-11,1985-08-11,Universite Laval - Faculte de Medecine,70749.04
+Radhia Cherif,301,1967-01-25,1997-01-25,Faculte de Medecine de Monastir,78962.44
+Ahmed Selmi,302,1985-06-07,2015-06-07,Universite Laval - Faculte de Medecine,73921.16
+Eya Ben Salem,303,1984-07-08,2014-07-08,Universite de Strasbourg - Faculte de Medecine,80971.57
+Sana Sfar,304,1976-09-26,2006-09-26,Universite de Montreal - Faculte de Medecine,78577.53
+Imed Charfi,305,1955-01-03,1985-01-03,Universite Laval - Faculte de Medecine,57923.15
+Ismail Chouchane,306,1955-04-02,1985-04-02,Faculte de Medecine de Sousse,76856.23
+Rim Chaabane,307,1969-02-18,1999-02-18,Faculte de Medecine de Sousse,91878.41
+Jamel Riahi,308,1989-12-16,2019-12-16,Faculte de Medecine de Monastir,84939.52
+Fathi Ltaief,309,1985-07-13,2015-07-13,Universite Libre de Bruxelles - Faculte de Medecine,78165.1
+Nadia Bouazizi,310,1950-01-10,1980-01-10,Universite Paris Descartes - Faculte de Medecine,67054.56
+Samia Turki,311,1977-01-04,2007-01-04,Faculte de Medecine de Monastir,78581.65
+Ghazi Bayoudh,312,1956-01-29,1986-01-29,Universite Libre de Bruxelles - Faculte de Medecine,80548.12
+Elyes Bouslama,313,1969-04-12,1999-04-12,Universite Libre de Bruxelles - Faculte de Medecine,73096.9
+Wael Chabbi,314,1964-06-23,1994-06-23,Universite de Strasbourg - Faculte de Medecine,77375.57
+Ahlem Aloui,315,1954-06-08,1984-06-08,Faculte de Medecine de Sousse,86322.47
+Marwa Trabelsi,316,1973-04-22,2003-04-22,Universite Laval - Faculte de Medecine,68570.44
+Manel Chaabane,317,1953-09-04,1983-09-04,Universite de Montreal - Faculte de Medecine,67062.75
+Jamila Tlili,318,1978-12-08,2008-12-08,Universite Paris Descartes - Faculte de Medecine,80195.24
+Ikram Ltaief,319,1988-12-18,2018-12-18,Faculte de Medecine de Monastir,78431.57
+Khalil Ben Salah,320,1959-07-23,1989-07-23,Faculte de Medecine de Sfax,82716.29
+Fathi Tlili,321,1975-06-29,2005-06-29,Faculte de Medecine de Sousse,79273.45
+Yosra Hamdi,322,1971-11-11,2001-11-11,Universite Paris Descartes - Faculte de Medecine,70741.84
+Ghofrane Kacem,323,1983-06-16,2013-06-16,Universite Libre de Bruxelles - Faculte de Medecine,78241.44
+Oumaima Bouden,324,1950-08-24,1980-08-24,Universite Libre de Bruxelles - Faculte de Medecine,66434.05
+Skander Mabrouk,325,1977-10-27,2007-10-27,Faculte de Medecine de Sfax,73122.61
+Tarek Bayoudh,326,1955-03-24,1985-03-24,Universite Laval - Faculte de Medecine,78770.99
+Youssef Ben Amor,327,1973-06-16,2003-06-16,Faculte de Medecine de Tunis,72296.14
+Imed Snoussi,328,1959-09-01,1989-09-01,Universite Laval - Faculte de Medecine,93510.39
+Rim Ben Salah,329,1964-05-23,1994-05-23,Faculte de Medecine de Monastir,60808.62
+Sana Amri,330,1972-05-07,2002-05-07,Universite Paris Descartes - Faculte de Medecine,70893.82
+Yassine Amri,331,1964-10-29,1994-10-29,Universite Laval - Faculte de Medecine,67966.65
+Jamel Chtioui,332,1959-04-15,1989-04-15,Faculte de Medecine de Monastir,69747.38
+Safia Hamdi,333,1980-07-19,2010-07-19,Universite Libre de Bruxelles - Faculte de Medecine,70177.51
+Mongi Snoussi,334,1966-04-18,1996-04-18,Universite Paris Descartes - Faculte de Medecine,65051.84
+Nawel Chabbi,335,1971-12-04,2001-12-04,Universite de Strasbourg - Faculte de Medecine,80645.27
+Nedra Hammami,336,1974-10-26,2004-10-26,Universite de Montreal - Faculte de Medecine,70896.79
+Khalil Ouali,337,1992-07-03,2022-07-03,Faculte de Medecine de Sousse,76226.8
+Omar Ben Ali,338,1950-03-19,1980-03-19,Universite Laval - Faculte de Medecine,71738.81
+Lobna Ben Youssef,339,1970-09-30,2000-09-30,Faculte de Medecine de Monastir,69818.4
+Rania Bouslama,340,1988-06-30,2018-06-30,Universite Paris Descartes - Faculte de Medecine,87542.09
+Farouk Kacem,341,1978-11-05,2008-11-05,Faculte de Medecine de Sfax,81921.99
+Sonia Ben Youssef,342,1976-01-15,2006-01-15,Faculte de Medecine de Sfax,60988.5
+Foued Trabelsi,343,1969-01-04,1999-01-04,Universite de Montreal - Faculte de Medecine,60193.97
+Feriel Ben Ali,344,1982-09-24,2012-09-24,Faculte de Medecine de Sfax,82819.57
+Adel Ben Ali,345,1971-05-15,2001-05-15,Universite de Strasbourg - Faculte de Medecine,71101.1
+Syrine Belhaj,346,1967-12-23,1997-12-23,Universite Libre de Bruxelles - Faculte de Medecine,62631.88
+Jamila Bouazizi,347,1966-05-21,1996-05-21,Universite Laval - Faculte de Medecine,82843.01
+Nabil Jaballah,348,1962-10-15,1992-10-15,Universite Laval - Faculte de Medecine,76268.43
+Lassaad Souissi,349,1975-02-23,2005-02-23,Universite de Montreal - Faculte de Medecine,76886.78
+Salma Guizani,350,1956-01-02,1986-01-02,Faculte de Medecine de Tunis,81071.54
+Karim Hammami,351,1953-06-02,1983-06-02,Faculte de Medecine de Monastir,65175.17
+Habib Msadek,352,1980-10-16,2010-10-16,Universite Paris Descartes - Faculte de Medecine,62763.74
+Hedi Amri,353,1985-01-07,2015-01-07,Universite de Strasbourg - Faculte de Medecine,86857.16
+Nedra Bouslama,354,1960-02-05,1990-02-05,Faculte de Medecine de Sfax,64221.25
+Syrine Chaieb,355,1961-01-01,1991-01-01,Universite Paris Descartes - Faculte de Medecine,65833.22
+Kamel Amri,356,1980-12-11,2010-12-11,Faculte de Medecine de Monastir,67331.73
+Dhouha Bouazizi,357,1955-05-25,1985-05-25,Faculte de Medecine de Sfax,90599.59
+Bilel Tlili,358,1972-12-20,2002-12-20,Faculte de Medecine de Tunis,78700.37
+Bouthaina Hammami,359,1992-02-04,2022-02-04,Faculte de Medecine de Monastir,82240.56
+Wided Msadek,360,1965-11-06,1995-11-06,Faculte de Medecine de Tunis,76471.26
+Dhouha Gargouri,361,1964-10-22,1994-10-22,Faculte de Medecine de Tunis,70485.85
+Sadok Bouzid,362,1975-11-12,2005-11-12,Faculte de Medecine de Monastir,79734.68
+Dhouha Chabbi,363,1952-07-11,1982-07-11,Faculte de Medecine de Sfax,63325.38
+Ghazi Chaieb,364,1951-02-24,1981-02-24,Universite Paris Descartes - Faculte de Medecine,66785.37
+Amina Frikha,365,1979-07-17,2009-07-17,Faculte de Medecine de Tunis,80497.31
+Naceur Jaballah,366,1953-01-25,1983-01-25,Faculte de Medecine de Sousse,64820.59
+Khalil Aloui,367,1980-10-30,2010-10-30,Universite Paris Descartes - Faculte de Medecine,73581.89
+Ali Chtioui,368,1956-05-25,1986-05-25,Universite de Strasbourg - Faculte de Medecine,73923.66
+Ikram Trabelsi,369,1964-09-17,1994-09-17,Universite de Montreal - Faculte de Medecine,71035.03
+Marwan Hachani,370,1956-02-22,1986-02-22,Universite Libre de Bruxelles - Faculte de Medecine,60366.61
+Nadia Ouali,371,1962-08-18,1992-08-18,Faculte de Medecine de Monastir,70283.03
+Driss Chaabane,372,1988-03-08,2018-03-08,Universite Paris Descartes - Faculte de Medecine,68812.74
+Yassine Bouzid,373,1980-05-27,2010-05-27,Faculte de Medecine de Monastir,76210.8
+Chiraz Frikha,374,1986-10-08,2016-10-08,Universite Libre de Bruxelles - Faculte de Medecine,75828.68
+Bilel Baccouche,375,1967-06-12,1997-06-12,Universite de Strasbourg - Faculte de Medecine,77834.71
+Marwa Toumi,376,1967-05-31,1997-05-31,Universite de Strasbourg - Faculte de Medecine,69930.1
+Bouthaina Sfar,377,1971-07-13,2001-07-13,Universite Laval - Faculte de Medecine,78920.83
+Zoubeir Chouchane,378,1958-11-03,1988-11-03,Universite Paris Descartes - Faculte de Medecine,63329.95
+Adel Bouden,379,1989-05-18,2019-05-18,Universite Paris Descartes - Faculte de Medecine,61335.71
+Mohamed Jendoubi,380,1957-12-01,1987-12-01,Universite de Strasbourg - Faculte de Medecine,57483.2
+Jamila Chaieb,381,1960-04-14,1990-04-14,Faculte de Medecine de Sousse,71255.27
+Lobna Chtioui,382,1993-03-06,2023-03-06,Faculte de Medecine de Monastir,69350.26
+Wael Belhaj,383,1957-04-28,1987-04-28,Universite de Strasbourg - Faculte de Medecine,80919.87
+Youssef Jaballah,384,1968-11-20,1998-11-20,Faculte de Medecine de Monastir,70135.03
+Hamza Abidi,385,1977-10-13,2007-10-13,Faculte de Medecine de Sousse,77050.32
+Anis Bouazizi,386,1952-03-04,1982-03-04,Universite de Montreal - Faculte de Medecine,81099.72
+Safia Ouali,387,1955-10-18,1985-10-18,Faculte de Medecine de Sousse,69852.61
+Dhouha Ben Salah,388,1965-10-28,1995-10-28,Universite de Strasbourg - Faculte de Medecine,77235.39
+Kamel Slimani,389,1983-09-03,2013-09-03,Universite de Strasbourg - Faculte de Medecine,82514.46
+Bouthaina Mabrouk,390,1988-10-01,2018-10-01,Faculte de Medecine de Sousse,65713.78
+Moez Naili,391,1980-06-03,2010-06-03,Universite Paris Descartes - Faculte de Medecine,75186.39
+Taher Selmi,392,1979-07-17,2009-07-17,Universite de Strasbourg - Faculte de Medecine,69884.74
+Leila Guizani,393,1981-03-16,2011-03-16,Universite Laval - Faculte de Medecine,66191.33
+Olfa Sfar,394,1985-08-04,2015-08-04,Faculte de Medecine de Sfax,63476.61
+Besma Souissi,395,1952-03-25,1982-03-25,Universite de Montreal - Faculte de Medecine,66070.14
+Karim Baccouche,396,1978-11-11,2008-11-11,Universite de Montreal - Faculte de Medecine,75450.22
+Omar Bouazizi,397,1956-09-09,1986-09-09,Universite de Montreal - Faculte de Medecine,62918.67
+Elyes Gharbi,398,1978-08-19,2008-08-19,Faculte de Medecine de Tunis,70869.55
+Jamel Souissi,399,1978-06-03,2008-06-03,Faculte de Medecine de Sousse,81098.96
+Chourouk Ben Ali,400,1971-04-24,2001-04-24,Universite Libre de Bruxelles - Faculte de Medecine,78367.58
+Jihen Trabelsi,401,1981-05-31,2011-05-31,Faculte de Medecine de Sousse,71021.19
+Khalil Rekik,402,1991-12-20,2021-12-20,Faculte de Medecine de Sousse,87672.68
+Oumaima Ben Amor,403,1952-04-07,1982-04-07,Faculte de Medecine de Sousse,89197.77
+Nizar Hachani,404,1969-07-27,1999-07-27,Faculte de Medecine de Sfax,75195.92
+Nizar Naili,405,1962-03-10,1992-03-10,Faculte de Medecine de Sfax,56485.93
+Hedi Ayari,406,1992-01-04,2022-01-04,Faculte de Medecine de Monastir,81648.36
+Jalel Karray,407,1987-05-02,2017-05-02,Universite Libre de Bruxelles - Faculte de Medecine,57795.18
+Jamila Guesmi,408,1966-04-26,1996-04-26,Faculte de Medecine de Tunis,86071.1
+Ahmed Mabrouk,409,1950-05-07,1980-05-07,Faculte de Medecine de Sousse,83126.89
+Moez Chabbi,410,1974-01-30,2004-01-30,Faculte de Medecine de Tunis,88306.59
+Skander Sassi,411,1981-11-15,2011-11-15,Universite de Montreal - Faculte de Medecine,76951.99
+Elyes Guesmi,412,1969-09-14,1999-09-14,Faculte de Medecine de Sousse,72289.61
+Hichem Guizani,413,1981-08-25,2011-08-25,Universite Libre de Bruxelles - Faculte de Medecine,71624.24
+Ali Kefi,414,1959-03-23,1989-03-23,Universite de Montreal - Faculte de Medecine,70903.05
+Faten Hachani,415,1960-05-25,1990-05-25,Universite Libre de Bruxelles - Faculte de Medecine,82358.01
+Nedra Toumi,416,1991-05-20,2021-05-20,Universite de Montreal - Faculte de Medecine,80342.04
+Hamza Charfi,417,1987-07-24,2017-07-24,Faculte de Medecine de Monastir,75901.69
+Habib Nasri,418,1954-11-28,1984-11-28,Universite Libre de Bruxelles - Faculte de Medecine,69583.64
+Selim Hentati,419,1980-04-06,2010-04-06,Universite Paris Descartes - Faculte de Medecine,94719.09
+Imen Turki,420,1959-07-09,1989-07-09,Universite de Strasbourg - Faculte de Medecine,81842.81
+Khadija Jaziri,421,1959-05-11,1989-05-11,Universite de Strasbourg - Faculte de Medecine,63017.16
+Habiba Chtioui,422,1954-07-04,1984-07-04,Universite de Montreal - Faculte de Medecine,71128.08
+Wafa Hamdi,423,1990-05-26,2020-05-26,Universite Laval - Faculte de Medecine,81988.32
+Fares Amri,424,1958-05-31,1988-05-31,Faculte de Medecine de Sousse,69003.46
+Omar Boughanmi,425,1955-01-29,1985-01-29,Universite Libre de Bruxelles - Faculte de Medecine,77636.61
+Zeineb Toumi,426,1962-10-07,1992-10-07,Universite Laval - Faculte de Medecine,82130.97
+Malek Cherif,427,1967-11-02,1997-11-02,Universite de Strasbourg - Faculte de Medecine,49586.79
+Mahdi Bahloul,428,1957-06-01,1987-06-01,Faculte de Medecine de Sousse,74189.72
+Olfa Mansouri,429,1982-01-07,2012-01-07,Universite Libre de Bruxelles - Faculte de Medecine,74484.07
+Aymen Toumi,430,1976-01-29,2006-01-29,Universite Paris Descartes - Faculte de Medecine,71909.46
+Chaima Frikha,431,1967-09-05,1997-09-05,Faculte de Medecine de Sfax,77262.71
+Radhia Nasri,432,1961-07-14,1991-07-14,Faculte de Medecine de Sfax,79931.4
+Hichem Kacem,433,1986-03-17,2016-03-17,Universite de Montreal - Faculte de Medecine,76065.38
+Hedi Chtioui,434,1971-10-28,2001-10-28,Faculte de Medecine de Sousse,72196.29
+Hamza Gargouri,435,1954-06-14,1984-06-14,Faculte de Medecine de Tunis,79744.66
+Ines Belhaj,436,1978-03-29,2008-03-29,Faculte de Medecine de Monastir,75367.9
+Imen Belhaj,437,1971-10-31,2001-10-31,Universite de Montreal - Faculte de Medecine,73269.75
+Amine Hachani,438,1973-06-26,2003-06-26,Faculte de Medecine de Sousse,65157.9
+Bechir Baccouche,439,1972-02-05,2002-02-05,Universite de Strasbourg - Faculte de Medecine,63280.09
+Oumaima Bayoudh,440,1973-09-23,2003-09-23,Universite Libre de Bruxelles - Faculte de Medecine,65015.78
+Ismail Ayari,441,1959-11-10,1989-11-10,Universite Paris Descartes - Faculte de Medecine,77087.47
+Hichem Ben Salem,442,1968-07-28,1998-07-28,Universite de Strasbourg - Faculte de Medecine,74406.91
+Slim Zouari,443,1986-03-19,2016-03-19,Faculte de Medecine de Monastir,63897.87
+Selim Bouzid,444,1975-01-16,2005-01-16,Faculte de Medecine de Sfax,79844.38
+Nadia Bouzid,445,1963-08-12,1993-08-12,Faculte de Medecine de Tunis,85307.32
+Jamel Guizani,446,1986-12-08,2016-12-08,Universite de Strasbourg - Faculte de Medecine,70511.3
+Mariem Hamdi,447,1985-06-17,2015-06-17,Universite de Strasbourg - Faculte de Medecine,61942.64
+Amina Boughanmi,448,1983-09-17,2013-09-17,Universite Laval - Faculte de Medecine,69681.55
+Farouk Slimani,449,1955-06-14,1985-06-14,Faculte de Medecine de Tunis,81408.45
+Mariem Mabrouk,450,1964-07-05,1994-07-05,Faculte de Medecine de Sousse,79113.97
+Hind Cherif,451,1985-08-02,2015-08-02,Faculte de Medecine de Tunis,68081.75
+Nizar Souissi,452,1986-11-20,2016-11-20,Faculte de Medecine de Tunis,86408.79
+Mahdi Kammoun,453,1961-12-29,1991-12-29,Faculte de Medecine de Sousse,85112.1
+Leila Charfi,454,1963-01-10,1993-01-10,Universite de Montreal - Faculte de Medecine,69502.45
+Rim Souissi,455,1978-06-18,2008-06-18,Faculte de Medecine de Tunis,69425.32
+Jalel Ayari,456,1994-06-20,2024-06-20,Universite de Strasbourg - Faculte de Medecine,70553.79
+Rania Hentati,457,1965-04-20,1995-04-20,Universite Paris Descartes - Faculte de Medecine,71195.0
+Takwa Guizani,458,1963-07-16,1993-07-16,Faculte de Medecine de Sousse,82129.04
+Fathi Bahloul,459,1986-09-04,2016-09-04,Universite Paris Descartes - Faculte de Medecine,78189.97
+Manel Belhaj,460,1961-08-14,1991-08-14,Universite Libre de Bruxelles - Faculte de Medecine,81578.09
+Imed Ayari,461,1977-02-24,2007-02-24,Faculte de Medecine de Sousse,80051.74
+Bouthaina Chaieb,462,1977-05-03,2007-05-03,Faculte de Medecine de Tunis,87858.95
+Fares Rekik,463,1954-10-26,1984-10-26,Faculte de Medecine de Tunis,67054.61
+Mohamed Boughanmi,464,1975-02-20,2005-02-20,Universite Libre de Bruxelles - Faculte de Medecine,77852.69
+Nedra Kefi,465,1956-10-18,1986-10-18,Faculte de Medecine de Sfax,58696.34
+Mehdi Kefi,466,1952-08-09,1982-08-09,Universite de Montreal - Faculte de Medecine,65122.83
+Leila Marzouki,467,1955-09-11,1985-09-11,Faculte de Medecine de Monastir,74438.6
+Nabil Ben Salem,468,1957-06-10,1987-06-10,Universite Laval - Faculte de Medecine,78136.55
+Jamila Trabelsi,469,1976-07-15,2006-07-15,Faculte de Medecine de Tunis,74236.38
+Chaima Cherif,470,1970-01-07,2000-01-07,Universite de Strasbourg - Faculte de Medecine,70746.06
+Malek Bahloul,471,1952-02-08,1982-02-08,Universite Laval - Faculte de Medecine,72079.37
+Hedi Zouari,472,1965-01-12,1995-01-12,Universite Paris Descartes - Faculte de Medecine,85270.81
+Naceur Zouari,473,1992-07-13,2022-07-13,Faculte de Medecine de Sfax,72119.76
+Rania Belhaj,474,1968-03-12,1998-03-12,Universite de Strasbourg - Faculte de Medecine,88119.31
+Kaouther Ferchichi,475,1964-04-29,1994-04-29,Faculte de Medecine de Sousse,80955.13
+Wided Mabrouk,476,1981-06-12,2011-06-12,Universite Paris Descartes - Faculte de Medecine,78431.53
+Ali Jaziri,477,1965-11-15,1995-11-15,Faculte de Medecine de Monastir,66048.02
+Nadia Khemiri,478,1983-10-17,2013-10-17,Faculte de Medecine de Sousse,82014.29
+Fathi Jaziri,479,1972-01-04,2002-01-04,Faculte de Medecine de Monastir,71296.72
+Farouk Kefi,480,1993-10-24,2023-10-24,Faculte de Medecine de Sfax,66041.7
+Safia Frikha,481,1985-10-31,2015-10-31,Faculte de Medecine de Tunis,78846.33
+Zied Chouchane,482,1963-05-06,1993-05-06,Faculte de Medecine de Sousse,64590.4
+Latifa Kacem,483,1954-01-21,1984-01-21,Faculte de Medecine de Sfax,69283.19
+Mongi Mansouri,484,1977-08-20,2007-08-20,Faculte de Medecine de Monastir,74924.13
+Skander Kacem,485,1989-06-27,2019-06-27,Universite Libre de Bruxelles - Faculte de Medecine,91638.16
+Marwan Souissi,486,1970-12-05,2000-12-05,Faculte de Medecine de Sfax,69848.13
+Salma Marzouki,487,1993-01-03,2023-01-03,Faculte de Medecine de Tunis,71563.38
+Habiba Amri,488,1980-11-10,2010-11-10,Faculte de Medecine de Tunis,80492.59
+Emna Charfi,489,1984-07-01,2014-07-01,Universite Paris Descartes - Faculte de Medecine,65712.78
+Jamila Khemiri,490,1980-02-11,2010-02-11,Faculte de Medecine de Sousse,78321.05
+Asma Chouchane,491,1989-02-20,2019-02-20,Universite Paris Descartes - Faculte de Medecine,84044.45
+Fatma Ouali,492,1979-04-01,2009-04-01,Faculte de Medecine de Tunis,72696.79
+Emna Kammoun,493,1994-11-06,2024-11-06,Faculte de Medecine de Sousse,82696.16
+Farouk Toumi,494,1973-04-29,2003-04-29,Faculte de Medecine de Monastir,77185.87
+Driss Bouden,495,1959-01-14,1989-01-14,Faculte de Medecine de Monastir,69519.89
+Ghazi Selmi,496,1968-05-28,1998-05-28,Universite Paris Descartes - Faculte de Medecine,73516.46
+Yassine Dridi,497,1969-10-06,1999-10-06,Universite Libre de Bruxelles - Faculte de Medecine,72151.82
+Imen Msadek,498,1958-05-13,1988-05-13,Universite Paris Descartes - Faculte de Medecine,74342.71
+Ghassen Baccouche,499,1987-03-03,2017-03-03,Universite Libre de Bruxelles - Faculte de Medecine,76145.38
