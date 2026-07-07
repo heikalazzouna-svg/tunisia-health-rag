@@ -262,6 +262,23 @@ def load_hospital_graph_from_csv() -> None:
     # Neo4jVector, which uses the legacy `db.create.setVectorProperty`
     # procedure that newer Neo4j versions have removed (modern Neo4j
     # supports storing float-array properties directly).
+    # Kept small on purpose: writing many large embedding vectors
+    # (1024+ floats each) in a single transaction can produce a payload
+    # large enough to trip connection/write failures on some networks.
+    # Smaller batches also mean progress persists across ETL retries,
+    # since already-embedded reviews are skipped by the WHERE clause
+    # below.
+    EMBEDDING_BATCH_SIZE = 50
+
+    @retry(tries=5, delay=5)
+    def _write_embedding_batch(session, rows):
+        write_query = (
+            "UNWIND $rows AS row "
+            "MATCH (n:Review) WHERE elementId(n) = row.id "
+            "SET n.embedding = row.embedding"
+        )
+        session.run(write_query, {"rows": rows})
+
     with driver.session(database=NEO4J_DATABASE) as session:
         while True:
             fetch_query = (
@@ -269,30 +286,24 @@ def load_hospital_graph_from_csv() -> None:
                 "RETURN elementId(n) AS id, reduce(str='', "
                 "k IN $props | str + '\\n' + k + ':' + "
                 "coalesce(n[k], '')) AS text "
-                "LIMIT 1000"
+                "LIMIT $limit"
             )
-            batch = session.run(fetch_query, {"props": REVIEW_TEXT_PROPERTIES}).data()
+            batch = session.run(
+                fetch_query,
+                {"props": REVIEW_TEXT_PROPERTIES, "limit": EMBEDDING_BATCH_SIZE},
+            ).data()
             if not batch:
                 break
 
             embeddings = _embed_texts([row["text"] for row in batch])
 
-            write_query = (
-                "UNWIND $rows AS row "
-                "MATCH (n:Review) WHERE elementId(n) = row.id "
-                "SET n.embedding = row.embedding"
-            )
-            session.run(
-                write_query,
-                {
-                    "rows": [
-                        {"id": row["id"], "embedding": embedding}
-                        for row, embedding in zip(batch, embeddings)
-                    ]
-                },
-            )
+            rows = [
+                {"id": row["id"], "embedding": embedding}
+                for row, embedding in zip(batch, embeddings)
+            ]
+            _write_embedding_batch(session, rows)
 
-            if len(batch) < 1000:
+            if len(batch) < EMBEDDING_BATCH_SIZE:
                 break
 
 
