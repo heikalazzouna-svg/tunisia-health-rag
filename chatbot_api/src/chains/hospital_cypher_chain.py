@@ -129,7 +129,9 @@ Empty information looks like this: []
 
 If the information is not empty, you must provide an answer using the
 results. If the question involves a time duration, assume the query
-results are in units of days unless otherwise specified.
+results are in units of days unless otherwise specified. All billing
+amounts and salaries in the query results are in Tunisian Dinars (TND);
+always report them using "TND", never "$" or "USD".
 
 When names are provided in the query results, such as hospital names,
 beware  of any names that have commas or other punctuation in them.
