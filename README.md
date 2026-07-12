@@ -48,9 +48,9 @@ The dataset models a synthetic Tunisian hospital network, including:
 
 Here is a glimpse of the chatbot in action:
 
-<img width="605" height="305" alt="Image1" src="https://github.com/user-attachments/assets/1910d718-150d-4a67-b7ef-f4a864ed9c5e" />
-<img width="605" height="300" alt="Image2" src="https://github.com/user-attachments/assets/e84e7b19-a82e-4dd3-aa81-7a38a8182206" />
+<img width="945" height="481" alt="image" src="https://github.com/user-attachments/assets/68482d93-801c-4401-8345-73162fd6af71" />
 
+<img width="945" height="579" alt="image" src="https://github.com/user-attachments/assets/d1f76f72-16dd-430a-a82c-f0f9ca9104c0" />
 
 
 
